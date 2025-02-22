@@ -69,6 +69,9 @@ h2 a{
 h2 a:hover{
    color: red;
 }
+h2.main{
+     color: #cdc2a6;
+}
 a:link {
     text-decoration: none;
     color: #cdc2a6;
