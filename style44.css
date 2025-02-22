@@ -11,7 +11,7 @@ body{
 }
 
 .header{
-   background-color: #660000;
+   background-color: #000066;
    color: #cdc2a6;
    padding: 10px;
    text-align: center;
@@ -21,7 +21,7 @@ body{
    font-size: 24px;
 }
 .footer{
-    background-color: #660000;
+    background-color: #000066;
     color: #cdc2a6;
     padding: 10px;
     text-align: center;
@@ -55,12 +55,10 @@ ul a{
 .menu ul{
     list-style-type: none;
     padding: 0px;
-    color: black;
 }
 .sidebar ul{
     list-style-type: none;
     padding: 0px;
-    color: black;
 }
 h2 a{
     text-decoration: none;
@@ -68,9 +66,6 @@ h2 a{
 }
 h2 a:hover{
    color: red;
-}
-h2.main{
-     color: #cdc2a6;
 }
 a:link {
     text-decoration: none;
