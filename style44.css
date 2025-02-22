@@ -69,7 +69,7 @@ h2 a:hover{
 }
 a:link {
     text-decoration: none;
-    color: #cdc2a6;
+/*     color: #cdc2a6; */
 }
 a:link:hover{
     color: red;
