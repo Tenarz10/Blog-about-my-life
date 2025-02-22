@@ -8,6 +8,7 @@ body{
     width: 90%;
     margin: auto;
     padding: 20px;
+    color: black;
 }
 
 .header{
@@ -21,7 +22,7 @@ body{
    font-size: 24px;
 }
 .footer{
-    background-color: #000066;
+    background-color: #660000;
     color: #cdc2a6;
     padding: 10px;
     text-align: center;
