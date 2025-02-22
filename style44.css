@@ -32,7 +32,7 @@ body{
 .menu {
     float: left;
     padding: 20px;
-    width: 35%;
+    width: 30%;
     margin-left: 10px;
 }
 .main{
@@ -67,9 +67,9 @@ h2 a{
 h2 a:hover{
    color: red;
 }
-a:link {
+.footer a:link {
     text-decoration: none;
-/*     color: #cdc2a6; */
+    color: #cdc2a6;
 }
 a:link:hover{
     color: red;
