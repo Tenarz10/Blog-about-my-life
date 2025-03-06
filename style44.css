@@ -37,7 +37,7 @@ body{
 }
 .main{
     float: left;
-    width: 45%;
+    width: 55%;
     border-left: 2px solid green ;
     padding: 10px;
 }
